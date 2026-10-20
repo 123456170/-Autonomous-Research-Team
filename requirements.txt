@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+opencv-python-headless
+imageio
+imageio-ffmpeg
